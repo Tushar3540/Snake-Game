@@ -1,0 +1,27 @@
+# Snake Game
+
+A browser-based Snake Game built using HTML, CSS, and JavaScript.
+
+## Features
+- Smooth snake movement
+- Collision detection
+- Responsive UI
+- Keyboard controls
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## Live Demo
+[Play Here](https://snake-game-tushar.netlify.app/)
+
+## Screenshots
+
+
+## How to Run
+1. Clone the repository
+2. Open index.html in browser
+
+## Author
+Tushar Rawat
